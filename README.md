@@ -1,3 +1,3 @@
 <h1>Merhabalar!</h1>
-<h1>Bu program cs 1.6da ayar dosyasi olusturmanizi saglamaktadir.</h1>
-<h1>Discord : lorex#1661</h1>
+<p>Bu dosya counter strike 1.6'da ayar yani config dosyasi olusturmanizi saglamaktadir.</p>
+<a>Discord : lorex#1661</a>
