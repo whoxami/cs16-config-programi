@@ -11,7 +11,7 @@ banner = """
 
 CS 1.6 Config Yapma Programi
 Lorex tarafindan kodlanmistir.
-Discord : lorex#1661
+YouTube : youtube.com/@lorex7337
 Size sorulan sorulara dogru cevap veriniz yoksa config calismaz!
 Not : Onceden config olusturduysaniz onceki ayarlariniz silinecektir!
 ---------------------------------------------------------------
